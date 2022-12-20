@@ -1,4 +1,3 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Hey there, I'm Trứ<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
@@ -6,7 +5,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Cloud+first;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
