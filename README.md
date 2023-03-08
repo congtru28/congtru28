@@ -14,7 +14,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congtru28&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-- 📫 How to reach me **congtru28@pm.me**
+<h5 align="center">📫 How to reach me: congtru28@pm.me</h3>
+
+<p align="center"><img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
